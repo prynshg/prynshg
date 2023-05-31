@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prynshg&label=Profile%20views&color=0e75b6&style=flat" alt="prynshg" /> </p>
 <img align = "right" alt ="Coding" width = "400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Deep Learning**
 
 - 💬 Ask me about **Code and Development**
 
