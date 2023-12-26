@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Data Science<br>👯 I’m looking to collaborate on Open source ML projects<br>🌱 I’m currently learning LLM's<br>💬 Ask me about Machine Learning
+🔭 I’m currently working as an SDE at Accenture<br>👯 I’m looking to collaborate on Open source ML projects<br>🌱 I’m currently learning LLM's<br>💬 Ask me about Machine Learning
 
 
 ## 🌐 Socials:
