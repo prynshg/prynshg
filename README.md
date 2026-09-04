@@ -1,21 +1,144 @@
-# 💫 About Me:
-I’m currently working as an SDE at Accenture<br>I’m looking to collaborate on Open source ML projects<br>I’m currently learning LLM's<br>Ask me about Machine Learning
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prynshg) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:priyanshgarg709@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prynshg&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=prynshg&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prynshg&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Header -->
+<h2 align="center">👋 Hi, I'm <strong>Priyansh</strong></h2>
+<h4 align="center">⚡Models that ship • Research that's published • End-to-end ML and MLOps</h4>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=prynshg&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ✨ About Me  
+I'm a **Data Scientist** passionate about building end-to-end ML systems, comparing models rigorously, and shipping deployable, production-ready solutions.
+I turn messy, imbalanced data into decisions — backed by published research, not just notebooks.
+
+---
+
+![GitHub Profile Stats](https://kgnio-profile-card.vercel.app/api/card?user=prynshg&theme=cyber-city)
+
+---
+
+<!-- ![GitHub Profile Card](https://raw.githubusercontent.com/kgnio/github-profile-stats-card/main/public/card.svg?v=33892420497)-->
+
+---
+
+## 🔥 What I’m Focused On
+- 🛠️ Building **end-to-end Machine Learning systems — from EDA to deployment**  
+- 🚀 Shipping **models that run in production, not just notebooks**
+- 🤖 Comparing **models rigorously — precision/recall/F1 over accuracy-only shortcuts**
+- 🌍 Publishing **research — IEEE-published, with a second paper under review** 
+
+💬 Ask me about: **Python**, **Scikit-learn**, **XGBoost**, **FastAPI**, **SQL**, **Docker**  
+🎯 2026 Goal: **Ship 10+ deployed ML projects and land a Data Scientist / ML Engineer role**  
+
+---
+
+## 🛠️ Tech Stack
+
+```
+ML/Data     : Python · Pandas · NumPy · Scikit-learn · XGBoost · TensorFlow · PyTorch · Transformers
+Analysis    : SQL · Statistical Analysis · Hypothesis Testing · Feature Engineering · EDA
+Serving     : FastAPI · Docker · Render · Hugging Face Spaces
+Viz/BI      : Tableau · Power BI · Matplotlib · Seaborn 
+Other       : Git · GitHub · Jupyter
+```
+
+---
+
+## 🚀 Technologies I Use
+
+### 🌐 Machine Learning
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/-XGBoost-006ACC?style=for-the-badge)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+### ⚙️ Data & Analysis
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Tableu](https://img.shields.io/badge/-Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![PowerBi](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+### 🚀 DevOps & Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+---
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" style="vertical-align: top; padding: 12px;">
+        <h3>📉 Customer Churn Prediction API</h3>
+        <p>
+          End-to-end ML system comparing 5 classifiers on an imbalanced telecom dataset,
+          with correct SMOTE/Box-Cox train-test isolation.<br />
+          Deployed as a containerized FastAPI service with a live prediction UI.
+        </p>
+        <p>
+          <em>Python · Scikit-learn · XGBoost · FastAPI · Docker</em>
+        </p>
+        <p>
+          <a href="https://github.com/prynshg/TelcoChurn">🔗 <strong>View Repo</strong></a> ·
+          <a href="https://telcochurn-fg6e.onrender.com/">🔗 <strong>Live Demo</strong></a>
+        </p>
+      </td>
+      <td width="50%" style="vertical-align: top; padding: 12px;">
+        <h3>🧠 Multimodal Aspect-Based Sentiment Analysis</h3>
+        <p>
+          Ensemble of Transformer-based language and vision models for
+          aspect/sentiment prediction on text-image pairs — a 6.3% accuracy
+          improvement over baseline on SemEval ABSA datasets.
+        </p>
+        <p>
+          <em>Python · Transformers · Deep Learning</em>
+        </p>
+        <p>
+          📄 <strong>Paper under review, Supercomputing Journal</strong>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" style="vertical-align: top; padding: 12px;">
+        <h3>💧 Water Quality Monitoring (IoT + ML)</h3>
+        <p>
+          IoT-enabled water quality monitoring system evaluating samples
+          from 6+ water sources, built with a 3-member team.
+        </p>
+        <p>
+          <em>Python · IoT · Machine Learning</em>
+        </p>
+        <p>
+          <a href="https://ieeexplore.ieee.org/abstract/document/10165824">📄 <strong>Published at IEEE</strong></a>
+        </p>
+      </td>
+      <td width="50%" style="vertical-align: top; padding: 12px;">
+        <h3>📈 Stock Trend Prediction</h3>
+        <p>
+          LSTM-based forecasting model achieving 95% prediction accuracy on
+          historical stock data, deployed with Streamlit to track 50+ stocks
+          with live predictions.
+        </p>
+        <p>
+          <em>Python · LSTM · Streamlit</em>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+---
+
+## 🐍 Contribution Snake
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prynshg/prynshg/output/github-contribution-grid-snake-dark.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/prynshg/prynshg/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 👀 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prynshg&label=Profile%20views&color=2ecc71&style=flat" alt="Profile Views" />
+</p>
